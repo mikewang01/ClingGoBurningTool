@@ -10,4 +10,7 @@ new feature:
 2.modify merging process to improvement statblity
 3. add the support for cling go tunning
 
+V0.1
+	extend the active time to 30 minutes 
+
 
